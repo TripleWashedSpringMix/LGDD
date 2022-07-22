@@ -1,0 +1,2 @@
+Some parts of the code was written with assistance of people online who had no desire to be credited
+or some parts of the code were MIT licensed (License X11)
